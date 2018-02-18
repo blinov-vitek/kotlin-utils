@@ -1,5 +1,3 @@
-package ru.qiwi.payin
-
 import kotlin.reflect.KParameter
 import kotlin.reflect.KProperty1
 import kotlin.reflect.full.declaredMemberProperties

@@ -1,2 +1,2 @@
-little kotlin utils
-now it only pattern-matching, like a scala case-classes
+Little kotlin utils.
+Now it only pattern-matching, like a scala case-classes
